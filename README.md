@@ -1,0 +1,2 @@
+# laracors
+Simple CORS app
